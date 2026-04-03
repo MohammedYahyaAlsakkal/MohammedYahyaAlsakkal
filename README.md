@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mohammed Yahya Alsakkal
 
-<!--
-**MohammedYahyaAlsakkal/MohammedYahyaAlsakkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Engineering student interested in Back-end Development.
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- C#
+- SQL Server
+- ADO.NET
+- WinForms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Bank Management System
+- Institute Management System
+- Warehouse Management System
