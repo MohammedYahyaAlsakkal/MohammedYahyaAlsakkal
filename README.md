@@ -20,4 +20,4 @@ Third-year ITE student interested in back-end development and building practical
 
 ## Connect With Me
 - LinkedIn: [yahyaalsakkal](https://www.linkedin.com/in/yahyaalsakkal/)
-- Email: mhd_yahya_alsakkal@gmail.com
+- Email: mhd.yahya.alsakkal@gmail.com
